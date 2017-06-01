@@ -1,10 +1,9 @@
-✔️🔰 update 10 ربات ضداسپم بوم بنگ🔰
+✔️🔰ربات ضداسپم  هیترو بات🔰
 
-ستاره یادت نره ازون بالا یه کلیک کن بهمون یه ستاره بده دمت گرم
+ستاره یادت نره
 
-✔️ادیت کامل و جالب پرمگ و دیباگ شده (سورسی متفاوت) بوم بنگ💊
 
-🔰TELE_BOM_BANG آموزش نصب ربات
+🔰 آموزش نصب ربات
 
 در داخل سرور خود یک یوزر میسازید به آن دسترسی سودو میدهید. و کدهای زیر را به طور کامل کپی کرده و میزنید
 
@@ -12,7 +11,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 👇از سرور خارج شده و مجدد وارد میشوید و کد های نصب ربات را میزنید👇
 
-git clone https://github.com/telebombang2018/tele_bom_bang_new.git && cd tele_bom_bang_new && chmod +x tele_bom_bang_new.sh && ./tele_bom_bang_new.sh install && ./tele_bom_bang_new.sh
+git clone https://github.com/alit7005/hitrobot.git && cd hitrobot && chmod +x tele_bom_bang_new.sh && ./tele_bom_bang_new.sh install && ./tele_bom_bang_new.sh
 
 شماره ربات را وارد میکنید
 
@@ -20,7 +19,7 @@ git clone https://github.com/telebombang2018/tele_bom_bang_new.git && cd tele_bo
 
 👇حالا ایدی خودتان را در پوشه ی تولز و پوشه کانفیگ و پوشه دیتا قرار دهید و از سرور خارج شوید و کد های زیر را در ترمینال جدید بزنید👇
 
-cd tele_bom_bang_new
+cd hitrobot
 
 screen ./tele_bom_bang_new.sh
 
@@ -32,7 +31,7 @@ channel : بسته شد در انتظار تیم و چنل جدید
 
 لانچر نصب کردن
 
-cd tele_bom_bang_new
+cd hitrobot
 
 chmod +x anticrash.sh
 
@@ -40,12 +39,10 @@ screen ./anticrash.sh
 
 اتولانچ نصب کردن
 
-cd tele_bom_bang_new
+cd hitrobot
 
 chmod +x autolaunch.sh
 
 screen ./autolaunch.sh
 
 توجه کنید که تو اتولانچ دومی باید یه ربات با بات فادر بسازید توکن رو داخل اتولانچ جاویه کلمه بوت بزارید و جایگزین کنید و اینکه ایدی خودتونو در همون فایل بجای عدد 310083510 بزارید و بعد کد های اتولانچ دومی رو بزنید
-
-editor and creator : mafia_boy .. tanx @shadobaker0 and @puzzle_sudo ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
