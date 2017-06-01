@@ -94,23 +94,18 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {310083510},
+    sudo_users = {365910979},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》bom_bang v3
+    info_text = [[》hitrobot v3
 
-🔰Our channel :
-》@sudo_monsters《
+🔰Our sudo :
+》@alit7005《
 
-🔰Our channel2 :
-》@bom_bang_team《
+🔰Our sudo bot :
+》@alit7005_bot《
 
-🔰Our channel3 :
-》@bombangteam《
-
-🔰Our website :
-》http://telebombang2018
 ]],
   }
   serialize_to_file(config, './data/config.lua')
@@ -898,4 +893,4 @@ elseif msg.content_.ID == "MessageGame" then
   end
 
 end
--- http://bom_bang_team
+-- @alit7005
